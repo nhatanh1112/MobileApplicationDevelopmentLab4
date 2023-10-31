@@ -1,9 +1,5 @@
 Mobile Application Development Lab Submission
 
-## Earned Badges and Quiz Completion
+## Earned Badges
 
-![screenshot](ArchitectureComponentQuizCompletion.jpeg)
-![screenshot](AdaptiveLayoutQuizCompletion.jpeg)
-![screenshot](NavigationQuizCompletion.jpeg)
-![screenshot](Lesson6QuizCompletion.jpeg)
 ![screenshot](EarnedBadges.jpeg)
