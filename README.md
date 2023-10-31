@@ -1,6 +1,4 @@
-## Introduction
-
-Mobile Application Submission
+Mobile Application Development Lab Submission
 
 ## Earned Badges and Quiz Completion
 
